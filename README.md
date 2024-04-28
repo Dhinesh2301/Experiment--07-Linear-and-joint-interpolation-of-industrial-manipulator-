@@ -37,6 +37,8 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
+![l](https://github.com/Dhinesh2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151379545/b622acef-61cf-4d0e-9bdc-cf4e3e7540dd)
+
 
 
 
@@ -47,6 +49,7 @@ DART studio screen shots for linear interpolation
 
 
 DART studio screen shots for joint interpolation 
+![a](https://github.com/Dhinesh2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151379545/bcf962fc-8628-4072-bb91-a22795190983)
 
 
 
@@ -56,7 +59,9 @@ DART studio screen shots for joint interpolation
 
 
 ### Robot movements 
+![move](https://github.com/Dhinesh2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151379545/eb4f868a-0794-47a8-9c71-f331cb87077b)
 
+![mome](https://github.com/Dhinesh2301/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/151379545/0dd86846-6573-491d-bf4c-e54e5ec28506)
 
 
 
